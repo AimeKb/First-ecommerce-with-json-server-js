@@ -1,0 +1,53 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Jordan 4 black cat",
+            "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <br> when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+            "price": "200$"
+            
+        },
+            {
+            "id": 2,
+            "title": "Jordan 4 university blue",
+            "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <br> when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+            "price": "300$"
+        },
+            {
+            "id": 3,
+            "title": "Yeezy",
+            "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <br> when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+            "price": "150$"
+        },
+            {
+            "id": 4,
+            "title": "Jordan 1",
+            "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <br> when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+            "price": "220$"
+        },
+            {
+            "id": 5,
+            "title": "Panda Dunks",
+            "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <br> when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+            "price": "100$"
+        },
+            {
+            "id": 6,
+            "title": "Airforce 1",
+            "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <br> when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+            "price": "90$"
+        },
+            {
+            "id": 7,
+            "title": "Jordan 3",
+            "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <br> when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+            "price": "240$"
+        },
+            {
+            "id": 8,
+            "title": "Jordan 11",
+            "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <br> when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+            "price": "230$"
+        }
+    ]
+}

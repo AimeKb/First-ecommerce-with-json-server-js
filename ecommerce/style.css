@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.topbar {
+    display: flex;
+    gap: 600px;
+    margin-left: 70px;
+    font-family: Sora;
+    font-size: 13px;
+    
+}
+
+.ul1 {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+
+.ul2 {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+
+.hr1 {
+    width: 100%;
+    margin-top: 5px;
+    background-color: black;
+}
+
+input {
+    padding: 10px;
+    width: 500px;
+    margin-top: 20px;
+    margin-left: 300px;
+    font-family: Sora;
+}
+
+#but1 {
+    padding: 10px;
+    background-color: #4361ee;
+    border: none;
+    width: 150px;
+    margin-left: 20px;
+    color: white;
+    font-family: Sora;
+    
+}
+
+.logo {
+    position: absolute;
+    margin-left: 50px;
+}
+
+.hr2 {
+    margin-top: 30px;
+}
+
+.img1 {
+    margin-top: 30px;
+}
+
+#shoes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 120px;
+    color: black;
+    margin-top: 150px;
+
+
+
+}
+
+.post {
+    font-family: sora;
+    margin-left: 110px;
+    width: 15%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    
+}
+
+h1 {
+    font-size: 15px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    background-color: #4361ee;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+a:hover {
+    color: white;
+}
+
+.end {
+    display: flex;
+    gap: 200px;
+    font-family: Roboto;
+    background-color: black;
+    margin-top: 100px;
+}
+
+.end1 {
+    font-size: 20px;
+    color: white;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.end2 {
+    font-size: 20px;
+    color: white;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+
+.socials {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+#searchResults {
+   font-family: sora; 
+   margin-left: 300px;
+   margin-top: 20px;
+}

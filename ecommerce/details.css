@@ -1,0 +1,17 @@
+.details {
+    font-family: sora;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    background-color: #4361ee;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+a:hover {
+    color: white;
+}
+
